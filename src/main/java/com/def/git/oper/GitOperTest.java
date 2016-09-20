@@ -12,7 +12,7 @@ public class GitOperTest {
     @Test
     public void testFirst(){
             //dddd test
-            //git direct edit
+            //git direct edit  //idea rebase
     }
 
 }
