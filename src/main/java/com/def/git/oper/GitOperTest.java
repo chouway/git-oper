@@ -13,6 +13,8 @@ public class GitOperTest {
     public void testFirst(){
             //dddd test
             //git direct edit  //idea rebase
+            
+            //edite remote
     }
 
 }
