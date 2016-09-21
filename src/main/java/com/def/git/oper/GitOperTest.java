@@ -14,7 +14,7 @@ public class GitOperTest {
             //dddd test
             //git direct edit  //idea rebase
             
-            //edite remote
+            //edite remote   22
     }
 
 }
