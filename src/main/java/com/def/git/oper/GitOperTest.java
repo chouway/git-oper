@@ -3,7 +3,7 @@ package com.def.git.oper;
 import org.junit.Test;
 
 /**
- * GitOperTest git-oper-branch
+ * GitOperTest git-oper-branch name
  * @author zhouyw
  * @date 2016.09.20
  */
